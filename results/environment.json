@@ -1,0 +1,44 @@
+{
+  "benchmark_date_utc": "2026-11-16T22:16:10.294131+00:00",
+  "os": "Windows-11-10.0.26300-SP0",
+  "cpu": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "logical_cpus": 22,
+  "python": "3.14.0",
+  "implementation": "CPython",
+  "dependencies": {
+    "matplotlib": "3.10.8"
+  },
+  "sizes": [
+    1000,
+    5000,
+    10000,
+    50000,
+    100000
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "motif_length": 12,
+  "moduli": [
+    5,
+    11,
+    101,
+    1009,
+    10007
+  ],
+  "base": 4,
+  "warmups": 2,
+  "repetitions": 7,
+  "target_batch_ns": 5000000,
+  "max_batch": 100,
+  "counter": "time.perf_counter_ns",
+  "source_sha256": {
+    "benchmark.py": "ff52937971fab99b590ecb0bcdaa1324846ceca008c18ab90b5256f9db96e9f6",
+    "algorithms.py": "eea04a377c966ee268592d065b998574b53fe01d3c31a9e1283a44061a490f99"
+  },
+  "aggregation": "Median of seven repetitions per input; chart/table median of three seed medians.",
+  "timing_scope": "Preprocessing and search with counters disabled; excludes validation and I/O.",
+  "order": "Forward order on even zero-based repetitions; reversed on odd repetitions."
+}

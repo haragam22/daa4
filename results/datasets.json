@@ -1,0 +1,212 @@
+[
+  {
+    "dataset": "random",
+    "seed": 42,
+    "n": 1000,
+    "motif": "GACAGGTACAAG",
+    "sha256": "937bbffc7cc6637e7454043b05b0c156bcf8e73dcf4cad2098abf9d547640d1b"
+  },
+  {
+    "dataset": "random",
+    "seed": 43,
+    "n": 1000,
+    "motif": "AGACGTCCACCT",
+    "sha256": "7f159817c7a12ecbf0a8ff92e19d45163a5d6aa2d7a5e7034d693840c5c9b95c"
+  },
+  {
+    "dataset": "random",
+    "seed": 44,
+    "n": 1000,
+    "motif": "CGTAAAAAAGTG",
+    "sha256": "9b0964089466e3d0641b38d268889d2651f7446f8184e38dfa0e2ba12e552d6d"
+  },
+  {
+    "dataset": "random",
+    "seed": 42,
+    "n": 5000,
+    "motif": "GACAGGTACAAG",
+    "sha256": "d3bfad3eeea5bc0d8e1ab938ac433fd0e9833dcda0f2d2a7abbc31c69d67ce1d"
+  },
+  {
+    "dataset": "random",
+    "seed": 43,
+    "n": 5000,
+    "motif": "AGACGTCCACCT",
+    "sha256": "6a0051c829d5af7ee481ea9b38c58cbca08097196d9fc31e2fc498beeecdd87c"
+  },
+  {
+    "dataset": "random",
+    "seed": 44,
+    "n": 5000,
+    "motif": "CGTAAAAAAGTG",
+    "sha256": "7558334f3331a4efba8dfbe50e4753479921b487fc4d4889db707afb87563a4f"
+  },
+  {
+    "dataset": "random",
+    "seed": 42,
+    "n": 10000,
+    "motif": "GACAGGTACAAG",
+    "sha256": "ec1b58fba1529775463beb030e63e7a49b5aac2d72c45f4fb7350f28ab1e1387"
+  },
+  {
+    "dataset": "random",
+    "seed": 43,
+    "n": 10000,
+    "motif": "AGACGTCCACCT",
+    "sha256": "55e8f5e9a3bf4d6265363852357d5b02a0b7f540a6f2aab2ce8e2713d578003b"
+  },
+  {
+    "dataset": "random",
+    "seed": 44,
+    "n": 10000,
+    "motif": "CGTAAAAAAGTG",
+    "sha256": "205275c44ece9b4788b7179029ce6abb24324ceb10afb1173404ff24b4a5699e"
+  },
+  {
+    "dataset": "random",
+    "seed": 42,
+    "n": 50000,
+    "motif": "GACAGGTACAAG",
+    "sha256": "88761b3f52e8e27b9bd099cde9e7ee2dcc64604673b2bad0bb1319109fd0bc32"
+  },
+  {
+    "dataset": "random",
+    "seed": 43,
+    "n": 50000,
+    "motif": "AGACGTCCACCT",
+    "sha256": "c77432e41fedce6db7be3203a7d2b301dd02aeb9d6dc7c7429b7bbf6ee0e80ca"
+  },
+  {
+    "dataset": "random",
+    "seed": 44,
+    "n": 50000,
+    "motif": "CGTAAAAAAGTG",
+    "sha256": "c4e41793b242f6a323694d232f1dfa7232589ea835c1ffee97c46331d06b1b91"
+  },
+  {
+    "dataset": "random",
+    "seed": 42,
+    "n": 100000,
+    "motif": "GACAGGTACAAG",
+    "sha256": "5592ae4ed07a34c25246cec57aa26c8e52d97be42e68a24408cb167bf1031b97"
+  },
+  {
+    "dataset": "random",
+    "seed": 43,
+    "n": 100000,
+    "motif": "AGACGTCCACCT",
+    "sha256": "434c32b1beadff3b2d097f1bf0dc4bfe21e75b5d18c493f06459ee91b9f42b9a"
+  },
+  {
+    "dataset": "random",
+    "seed": 44,
+    "n": 100000,
+    "motif": "CGTAAAAAAGTG",
+    "sha256": "185cce54faf654cdc3289e8bd26efa83be416af516a274850740603465c919d0"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 42,
+    "n": 1000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "c2e686823489ced2017f6059b8b239318b6364f6dcd835d0a519105a1eadd6e4"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 43,
+    "n": 1000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "c2e686823489ced2017f6059b8b239318b6364f6dcd835d0a519105a1eadd6e4"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 44,
+    "n": 1000,
+    "motif": "TTTTTTTTTTTT",
+    "sha256": "98c5d56ef33757585b10ea8eac1dd4d1b9535600ab6dd0ccffbb088c713a65b4"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 42,
+    "n": 5000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "260679791fa8da4dddc6aa3b243c514025e83d3a2f60800b9734b990be5d11a0"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 43,
+    "n": 5000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "260679791fa8da4dddc6aa3b243c514025e83d3a2f60800b9734b990be5d11a0"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 44,
+    "n": 5000,
+    "motif": "TTTTTTTTTTTT",
+    "sha256": "7368ab00469e55dda638e1873ea45d77034a7cf4a30d5edbb74722b73c1aae54"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 42,
+    "n": 10000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "85757d9ef5868bb53472a6be8d81d1e3c398546b69b107141ad336053c40cb54"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 43,
+    "n": 10000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "85757d9ef5868bb53472a6be8d81d1e3c398546b69b107141ad336053c40cb54"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 44,
+    "n": 10000,
+    "motif": "TTTTTTTTTTTT",
+    "sha256": "e5e2f5ef7c8b54ea8c35ee5abca78e2a538ab8d630c92e07727eb5471f6f3e7f"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 42,
+    "n": 50000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "50cbe91e7bc072a7a58eef057cad901d2d3eb30e544a6f30ad0b2bd32274f753"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 43,
+    "n": 50000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "50cbe91e7bc072a7a58eef057cad901d2d3eb30e544a6f30ad0b2bd32274f753"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 44,
+    "n": 50000,
+    "motif": "TTTTTTTTTTTT",
+    "sha256": "f9acb0b69c1b2bff28750c08322b2eca5f607f0b1faa33fad3e1bf7507830b0d"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 42,
+    "n": 100000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "e6631225e83d23bf67657e85109ad5deb3570e1405d7aaa23a2485ae8582c143"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 43,
+    "n": 100000,
+    "motif": "AAAAAAAAAAAA",
+    "sha256": "e6631225e83d23bf67657e85109ad5deb3570e1405d7aaa23a2485ae8582c143"
+  },
+  {
+    "dataset": "repetitive",
+    "seed": 44,
+    "n": 100000,
+    "motif": "TTTTTTTTTTTT",
+    "sha256": "e2cf816979fa8c4e126b00637755882050438e3543e1d6264e3e095b0dfa258b"
+  }
+]
